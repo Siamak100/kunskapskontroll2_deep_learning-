@@ -1,0 +1,8 @@
+
+transformers==4.40.0
+accelerate==0.29.3
+torch==2.2.2
+sentence-transformers==2.7.0
+faiss-cpu==1.7.4
+streamlit==1.32.2
+pypdf==4.1.0
